@@ -1,0 +1,28 @@
+359, 719
+
+피라미드 게임
+
+img/Paneles/FirstWindow.jpg 
+
+확인
+
+Ingrese el codigo de seguridad para instalar la aplicacion
+
+앱을 설치하려면 보안코드를 입력하셔요
+
+이름-Nombre
+
+투표 완 료 - Votacion Completa
+
+이름을 입릭하세요 - Por Favor Intorduzca su nombre
+
+닫으시겠습니까? - Esta seguro que quieres cerrar
+
+닫다 - Cerrar
+뒤따르다- Seguir
+
+사용자 이름을 입력합니다. - Introduzca su usuario
+받아들이다 - Aceptar
+
+비밀번호가 잘못되었습니다. - La contraseña es incorrecta
+
