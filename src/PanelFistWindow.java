@@ -110,7 +110,6 @@ class panelConfirmClose extends JPanel{
         yes.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                
             }
         });
 
